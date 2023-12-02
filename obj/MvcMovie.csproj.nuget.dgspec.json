@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\HOUSSEM\\2023-2024\\semestre 1\\ASP.NET_Framework_de_developpement\\TP 2\\tp\\MvcMovie\\MvcMovie.csproj": {}
+    "D:\\FEDI\\2023-2024\\semestre 1\\ASP.NET_Framework_de_developpement\\TP 2\\tp\\MvcMovie\\MvcMovie.csproj": {}
   },
   "projects": {
-    "D:\\HOUSSEM\\2023-2024\\semestre 1\\ASP.NET_Framework_de_developpement\\TP 2\\tp\\MvcMovie\\MvcMovie.csproj": {
+    "D:\\FEDI\\2023-2024\\semestre 1\\ASP.NET_Framework_de_developpement\\TP 2\\tp\\MvcMovie\\MvcMovie.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\HOUSSEM\\2023-2024\\semestre 1\\ASP.NET_Framework_de_developpement\\TP 2\\tp\\MvcMovie\\MvcMovie.csproj",
+        "projectUniqueName": "D:\\FEDI\\2023-2024\\semestre 1\\ASP.NET_Framework_de_developpement\\TP 2\\tp\\MvcMovie\\MvcMovie.csproj",
         "projectName": "MvcMovie",
-        "projectPath": "D:\\HOUSSEM\\2023-2024\\semestre 1\\ASP.NET_Framework_de_developpement\\TP 2\\tp\\MvcMovie\\MvcMovie.csproj",
-        "packagesPath": "C:\\Users\\Houssem SAHNOUN\\.nuget\\packages\\",
-        "outputPath": "D:\\HOUSSEM\\2023-2024\\semestre 1\\ASP.NET_Framework_de_developpement\\TP 2\\tp\\MvcMovie\\obj\\",
+        "projectPath": "D:\\FEDI\\2023-2024\\semestre 1\\ASP.NET_Framework_de_developpement\\TP 2\\tp\\MvcMovie\\MvcMovie.csproj",
+        "packagesPath": "C:\\Users\\users\\.nuget\\packages\\",
+        "outputPath": "D:\\FEDI\\2023-2024\\semestre 1\\ASP.NET_Framework_de_developpement\\TP 2\\tp\\MvcMovie\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Houssem SAHNOUN\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\users\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
